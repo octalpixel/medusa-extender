@@ -22,7 +22,7 @@
 
 #### Defined in
 
-[src/modules/multi-tenancy/types.ts:10](https://github.com/octalpixel/medusa-extender/blob/a877266/src/modules/multi-tenancy/types.ts#L10)
+[src/modules/multi-tenancy/types.ts:10](https://github.com/octalpixel/medusa-extender/blob/116388a/src/modules/multi-tenancy/types.ts#L10)
 
 ## Methods
 
@@ -42,4 +42,4 @@
 
 #### Defined in
 
-[src/modules/multi-tenancy/types.ts:11](https://github.com/octalpixel/medusa-extender/blob/a877266/src/modules/multi-tenancy/types.ts#L11)
+[src/modules/multi-tenancy/types.ts:11](https://github.com/octalpixel/medusa-extender/blob/116388a/src/modules/multi-tenancy/types.ts#L11)
